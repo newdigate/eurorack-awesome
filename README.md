@@ -11,7 +11,7 @@ awesome eurorack diy and opensource
   * [terminal_tedium](https://github.com/mxmxmx/terminal_tedium "terminal_tedium")
 * [bastl-instruments](https://github.com/bastl-instruments "bastl-instruments")
   * [bastl-instruments/eurorack](https://github.com/bastl-instruments/eurorack "bastl-instruments/eurorack")
-  * https://github.com/kweiwen/benjolin
+* https://github.com/kweiwen/benjolin
   
  # community forums
   * [muffwigler](https://www.muffwiggler.com/forum/index.php)
