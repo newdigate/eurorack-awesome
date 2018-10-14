@@ -7,7 +7,9 @@ awesome eurorack diy and opensource
 * [shaduzlabs](https://github.com/shaduzlabs "shaduzlabs")
   * [synapse](https://github.com/shaduzlabs/synapse "synapse")
 * [mxmxmx](https://github.com/mxmxmx "mxmxmx")
-  * [O_C](https://github.com/mxmxmx/O_C "O_C")
+  * Ordinance & Crime
+    * http://ornament-and-cri.me/hardware-basics/ 
+    * [O_C](https://github.com/mxmxmx/O_C "O_C")
   * [terminal_tedium](https://github.com/mxmxmx/terminal_tedium "terminal_tedium")
 * [bastl-instruments](https://github.com/bastl-instruments "bastl-instruments")
   * [bastl-instruments/eurorack](https://github.com/bastl-instruments/eurorack "bastl-instruments/eurorack")
