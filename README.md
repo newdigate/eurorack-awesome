@@ -16,7 +16,10 @@ awesome eurorack diy and opensource
 * [kweiwen](https://github.com/kweiwen)
   * [benjolin](https://github.com/kweiwen/benjolin)
   * [thinks](https://github.com/kweiwen/thinks)
-  
+ 
+ # related
+ * [teensypolysynth]/(https://github.com/otem/teensypolysynth)
+ 
  # community forums
   * [muffwigler](https://www.muffwiggler.com/forum/index.php)
   
