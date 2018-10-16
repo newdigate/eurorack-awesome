@@ -16,6 +16,12 @@ awesome eurorack diy and opensource
 * [kweiwen](https://github.com/kweiwen)
   * [benjolin](https://github.com/kweiwen/benjolin)
   * [thinks](https://github.com/kweiwen/thinks)
+  
+# front panel design
+* Front panel designer
+  * http://www.schaeffer-ag.de/en/downloads/front_panel_designer/?no_cache=1
+* Inkscape plugin for designing eurorack front panels
+  * https://github.com/THX2112/Eurorack-Panel-Designer
  
  # related
  * [teensypolysynth](https://github.com/otem/teensypolysynth)
