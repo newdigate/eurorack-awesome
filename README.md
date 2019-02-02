@@ -16,6 +16,8 @@ awesome eurorack diy and opensource
 * [kweiwen](https://github.com/kweiwen)
   * [benjolin](https://github.com/kweiwen/benjolin)
   * [thinks](https://github.com/kweiwen/thinks)
+* [cutlasses](https://github.com/cutlasses)
+  * [AudioFreezeV2](https://github.com/cutlasses/AudioFreezeV2)
   
 # front panel design
 * Front panel designer
