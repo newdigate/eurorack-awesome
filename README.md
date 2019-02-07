@@ -27,6 +27,7 @@ awesome eurorack diy and opensource
  
  # related
  * [teensypolysynth](https://github.com/otem/teensypolysynth)
+ * [fader bank](https://github.com/16n-faderbank/16n)
  
  # community forums
   * [muffwigler](https://www.muffwiggler.com/forum/index.php)
