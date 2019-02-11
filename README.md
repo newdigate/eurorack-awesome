@@ -10,8 +10,8 @@ awesome eurorack diy and opensource
   * Ordinance & Crime
     * http://ornament-and-cri.me/hardware-basics/ 
     * [O_C](https://github.com/mxmxmx/O_C "O_C")
-    * [CV2Midi](https://github.com/mxmxmx/CV2Midi)
-    * [minitrash](https://github.com/mxmxmx/minitrash)
+  * [CV2Midi](https://github.com/mxmxmx/CV2Midi)
+  * [minitrash](https://github.com/mxmxmx/minitrash)
   * [terminal_tedium](https://github.com/mxmxmx/terminal_tedium "terminal_tedium")
 * [bastl-instruments](https://github.com/bastl-instruments "bastl-instruments")
   * [bastl-instruments/eurorack](https://github.com/bastl-instruments/eurorack "bastl-instruments/eurorack")
