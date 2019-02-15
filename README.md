@@ -23,6 +23,8 @@ awesome eurorack diy and opensource
 * [jamescarruthers](https://github.com/jamescarruthers)
   * [Eagle libraries](https://github.com/jamescarruthers/Eagle)
   * [audioplayground](https://github.com/jamescarruthers/audioplayground)
+* [mattb](https://github.com/mattb)
+  *[teensy-cv](https://github.com/mattb/teensy-cv)
   
 # front panel design
 * Front panel designer
