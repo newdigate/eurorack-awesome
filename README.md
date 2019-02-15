@@ -25,6 +25,8 @@ awesome eurorack diy and opensource
   * [audioplayground](https://github.com/jamescarruthers/audioplayground)
 * [mattb](https://github.com/mattb)
   * [teensy-cv](https://github.com/mattb/teensy-cv)
+* [little-scale](https://github.com/little-scale) 
+  * [eurorack](https://github.com/little-scale/eurorack) 
   
 # front panel design
 * Front panel designer
