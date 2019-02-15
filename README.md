@@ -20,6 +20,9 @@ awesome eurorack diy and opensource
   * [thinks](https://github.com/kweiwen/thinks)
 * [cutlasses](https://github.com/cutlasses)
   * [AudioFreezeV2](https://github.com/cutlasses/AudioFreezeV2)
+* [jamescarruthers](https://github.com/jamescarruthers)
+  * [Eagle libraries](https://github.com/jamescarruthers/Eagle)
+  * [audioplayground](https://github.com/jamescarruthers/audioplayground)
   
 # front panel design
 * Front panel designer
