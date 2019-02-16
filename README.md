@@ -27,6 +27,8 @@ awesome eurorack diy and opensource
   * [teensy-cv](https://github.com/mattb/teensy-cv)
 * [little-scale](https://github.com/little-scale) 
   * [eurorack](https://github.com/little-scale/eurorack) 
+* [ThoEvans](https://github.com/ThoEvans)
+  * [Eurorack](https://github.com/ThoEvans/Eurorack)
   
 # front panel design
 * Front panel designer
