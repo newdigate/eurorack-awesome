@@ -1,5 +1,5 @@
 # awesome eurorack open-source ![awesome](media/awesome-badge.svg)
-awesome eurorack diy and opensource
+community-curated list of awesome eurorack diy and opensource projects
 
 # gihub repos
 * [pichenettes](https://github.com/pichenettes/ "pichenettes") - (aka Mutable Instruments)
