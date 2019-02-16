@@ -1,4 +1,4 @@
-# eurorack-awesome
+# awesome eurorack open-source ![awesome](media/awesome-badge.svg)
 awesome eurorack diy and opensource
 
 # gihub repos
