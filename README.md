@@ -1,7 +1,7 @@
 # awesome eurorack open-source ![awesome](media/awesome-badge.svg)
 community-curated list of awesome eurorack diy and opensource projects
 
-# gihub repos
+# github repos
 * [pichenettes](https://github.com/pichenettes/ "pichenettes") - (aka Mutable Instruments)
   * [pichenettes/eurorack](https://github.com/pichenettes/eurorack "pichenettes/eurorack")
 * [shaduzlabs](https://github.com/shaduzlabs "shaduzlabs")
@@ -31,9 +31,13 @@ community-curated list of awesome eurorack diy and opensource projects
 * [ThoEvans](https://github.com/ThoEvans)
   * [Eurorack](https://github.com/ThoEvans/Eurorack)
   
-# front panel design
+# front panel design / manufacture
 * Front panel designer
   * http://www.schaeffer-ag.de/en/downloads/front_panel_designer/?no_cache=1
+    * design and order your own front panels from schaeffer-ag.de
+* Autodesk fusion 360
+  * great for designing and manufacturing your own panels
+  * import 3d models of pcbs and their components from Eagle CAD 
 * Inkscape plugin for designing eurorack front panels
   * https://github.com/THX2112/Eurorack-Panel-Designer
  
