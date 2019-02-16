@@ -2,7 +2,7 @@
 awesome eurorack diy and opensource
 
 # gihub repos
-* [pichenettes](https://github.com/pichenettes/ "pichenettes")
+* [pichenettes](https://github.com/pichenettes/ "pichenettes") - (aka Mutable Instruments)
   * [pichenettes/eurorack](https://github.com/pichenettes/eurorack "pichenettes/eurorack")
 * [shaduzlabs](https://github.com/shaduzlabs "shaduzlabs")
   * [synapse](https://github.com/shaduzlabs/synapse "synapse")
