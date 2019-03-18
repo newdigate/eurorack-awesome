@@ -30,6 +30,8 @@ community-curated list of awesome eurorack diy and opensource projects
   * [eurorack](https://github.com/little-scale/eurorack) 
 * [ThoEvans](https://github.com/ThoEvans)
   * [Eurorack](https://github.com/ThoEvans/Eurorack)
+* [nickajeglin](https://github.com/nickajeglin)
+  * [Eurorack-pcbs](https://github.com/nickajeglin/Eurorack-pcbs)
   
 # non github
 * http://www.yusynth.net/Modular/EN/ADSR/index_latest.html
