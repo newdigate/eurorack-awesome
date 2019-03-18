@@ -34,7 +34,8 @@ community-curated list of awesome eurorack diy and opensource projects
   * [Eurorack-pcbs](https://github.com/nickajeglin/Eurorack-pcbs)
   
 # non github
-* http://www.yusynth.net/Modular/EN/ADSR/index_latest.html
+* [yusynth](www.yusynth.net) 
+  * [ADSR](http://www.yusynth.net/Modular/EN/ADSR/index_latest.html)
   
 # front panel design / manufacture
 * Front panel designer
