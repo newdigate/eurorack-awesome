@@ -31,6 +31,9 @@ community-curated list of awesome eurorack diy and opensource projects
 * [ThoEvans](https://github.com/ThoEvans)
   * [Eurorack](https://github.com/ThoEvans/Eurorack)
   
+# non github
+* http://www.yusynth.net/Modular/EN/ADSR/index_latest.html
+  
 # front panel design / manufacture
 * Front panel designer
   * http://www.schaeffer-ag.de/en/downloads/front_panel_designer/?no_cache=1
