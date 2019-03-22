@@ -32,7 +32,9 @@ community-curated list of awesome eurorack diy and opensource projects
   * [Eurorack](https://github.com/ThoEvans/Eurorack)
 * [nickajeglin](https://github.com/nickajeglin)
   * [Eurorack-pcbs](https://github.com/nickajeglin/Eurorack-pcbs)
-  
+# gitlab
+ * [Faselunare](https://gitlab.com/Faselunare)
+   * [shapeshifter](https://gitlab.com/Faselunare/shapeshifter)
 # non github
 * [yusynth](www.yusynth.net) 
   * [ADSR](http://www.yusynth.net/Modular/EN/ADSR/index_latest.html)
