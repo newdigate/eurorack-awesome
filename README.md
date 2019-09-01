@@ -36,7 +36,7 @@ community-curated list of awesome eurorack diy and opensource projects
  * [Faselunare](https://gitlab.com/Faselunare)
    * [shapeshifter](https://gitlab.com/Faselunare/shapeshifter)
 # non github
-* [yusynth](www.yusynth.net) 
+* [yusynth](http://www.yusynth.net) 
   * [ADSR](http://www.yusynth.net/Modular/EN/ADSR/index_latest.html)
   
 # front panel design / manufacture
