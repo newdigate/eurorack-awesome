@@ -32,6 +32,8 @@ community-curated list of awesome eurorack diy and opensource projects
   * [Eurorack](https://github.com/ThoEvans/Eurorack)
 * [nickajeglin](https://github.com/nickajeglin)
   * [Eurorack-pcbs](https://github.com/nickajeglin/Eurorack-pcbs)
+* [ctag-fh-kiel](https://github.com/ctag-fh-kiel)
+  * [esp32-eurorack-audio](https://github.com/ctag-fh-kiel/esp32-eurorack-audio)
 # gitlab
  * [Faselunare](https://gitlab.com/Faselunare)
    * [shapeshifter](https://gitlab.com/Faselunare/shapeshifter)
