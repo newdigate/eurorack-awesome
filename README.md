@@ -45,10 +45,11 @@ community-curated list of awesome eurorack diy and opensource projects
 * Front panel designer
   * http://www.schaeffer-ag.de/en/downloads/front_panel_designer/?no_cache=1
     * design and order your own front panels from schaeffer-ag.de
-* FreeCad
+* [FreeCad](https://github.com/FreeCAD/FreeCAD) 
   * great for designing and manufacturing your own panels
   * import 3d models of pcbs and their components from Kicad
-  
+* [KiCad](https://github.com/KiCad/kicad-source-mirror)
+  * create circuits, printed circuit boards, and panels
 * Inkscape plugin for designing eurorack front panels
   * https://github.com/THX2112/Eurorack-Panel-Designer
  
