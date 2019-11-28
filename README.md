@@ -36,6 +36,8 @@ community-curated list of awesome eurorack diy and opensource projects
   * [esp32-eurorack-audio](https://github.com/ctag-fh-kiel/esp32-eurorack-audio)
 * [deladriere](https://github.com/deladriere)
   * [euro-modules](https://github.com/deladriere/euro-modules)
+* [minisystem](https://github.com/minisystem)
+  * [Eurorack](https://github.com/minisystem/Eurorack)
 # gitlab
  * [Faselunare](https://gitlab.com/Faselunare)
    * [shapeshifter](https://gitlab.com/Faselunare/shapeshifter)
