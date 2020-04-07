@@ -38,6 +38,7 @@ community-curated list of awesome eurorack diy and opensource projects
   * [euro-modules](https://github.com/deladriere/euro-modules)
 * [minisystem](https://github.com/minisystem)
   * [Eurorack](https://github.com/minisystem/Eurorack)
+* https://github.com/TomWhitwell/TH-VCO1
 # gitlab
  * [Faselunare](https://gitlab.com/Faselunare)
    * [shapeshifter](https://gitlab.com/Faselunare/shapeshifter)
