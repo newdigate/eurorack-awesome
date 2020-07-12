@@ -40,6 +40,8 @@ community-curated list of awesome eurorack diy and opensource projects
   * [Eurorack](https://github.com/minisystem/Eurorack)
 * https://github.com/TomWhitwell/TH-VCO1
 * https://github.com/forestcaver/Analog-Voice
+* https://github.com/erica-synths/diy-eurorack
+
 # gitlab
  * [Faselunare](https://gitlab.com/Faselunare)
    * [shapeshifter](https://gitlab.com/Faselunare/shapeshifter)
