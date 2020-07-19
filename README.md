@@ -68,6 +68,10 @@ community-curated list of awesome eurorack diy and opensource projects
  * [pcb-checklist](https://github.com/azonenberg/pcb-checklist)
  * [teensypolysynth](https://github.com/otem/teensypolysynth)
  * [fader bank](https://github.com/16n-faderbank/16n)
+ * [Wojciech Jakóbczyk](https://github.com/wjakobczyk) 
+   * [kawa synth](https://github.com/wjakobczyk/mutmidi)
+     * desktop hardware synthesizer based on Elements by Mutable Instruments
+     * programmed in rust! based on mutable instruments
  
  # community forums
   * [muffwigler](https://www.muffwiggler.com/forum/index.php)
