@@ -44,6 +44,8 @@ community-curated list of awesome eurorack diy and opensource projects
   * [Analog-Voice](https://github.com/forestcaver/Analog-Voice)
 * [erica-synths](https://github.com/erica-synths)
   * [diy-eurorack](https://github.com/erica-synths/diy-eurorack)
+* [16n-faderbank](https://github.com/16n-faderbank)
+  * [16n](https://github.com/16n-faderbank/16n)
 
 # gitlab
  * [Faselunare](https://gitlab.com/Faselunare)
