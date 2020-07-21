@@ -40,12 +40,13 @@ community-curated list of awesome eurorack diy and opensource projects
   * [Eurorack](https://github.com/minisystem/Eurorack)
 * [TomWhitwell](https://github.com/TomWhitwell)
   * [TH-VCO1](https://github.com/TomWhitwell/TH-VCO1)
+    * ```Eurorack Layout for the Thomas Henry VCO 1 Oscillator```
 * [forestcaver](https://github.com/forestcaver)
   * [Analog-Voice](https://github.com/forestcaver/Analog-Voice)
+    * ```analog voice modules```
 * [erica-synths](https://github.com/erica-synths)
   * [diy-eurorack](https://github.com/erica-synths/diy-eurorack)
     * ```Erica Synths DIY Eurorack Modules```
-
 * [16n-faderbank](https://github.com/16n-faderbank)
   * [16n](https://github.com/16n-faderbank/16n)
     * ```Sixteen faders, a Teensy, MIDI over USB and jack, CV out, and I2C out.```
