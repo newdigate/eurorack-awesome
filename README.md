@@ -46,6 +46,7 @@ community-curated list of awesome eurorack diy and opensource projects
   * [diy-eurorack](https://github.com/erica-synths/diy-eurorack)
 * [16n-faderbank](https://github.com/16n-faderbank)
   * [16n](https://github.com/16n-faderbank/16n)
+    * ```Sixteen faders, a Teensy, MIDI over USB and jack, CV out, and I2C out.```
 
 # gitlab
  * [Faselunare](https://gitlab.com/Faselunare)
