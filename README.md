@@ -54,6 +54,8 @@ community-curated list of awesome eurorack diy and opensource projects
 # gitlab
  * [Faselunare](https://gitlab.com/Faselunare)
    * [shapeshifter](https://gitlab.com/Faselunare/shapeshifter)
+   * [synth-panels-designer](https://gitlab.com/Faselunare/synth-panels-designer/-/tree/master)
+     * plugin for inscape which allows you to build nice panel designs.
 # non github
 * [yusynth](http://www.yusynth.net) 
   * [ADSR](http://www.yusynth.net/Modular/EN/ADSR/index_latest.html)
