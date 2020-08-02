@@ -80,6 +80,7 @@ community-curated list of awesome eurorack diy and opensource projects
    * [kawa synth](https://github.com/wjakobczyk/mutmidi)
      * desktop hardware synthesizer based on Elements by Mutable Instruments
      * programmed in rust! based on mutable instruments
+ * [awesome synth](https://github.com/psykon/awesome-synth)
  
  # community forums
   * [muffwigler](https://www.muffwiggler.com/forum/index.php)
