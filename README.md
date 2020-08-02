@@ -81,6 +81,7 @@ community-curated list of awesome eurorack diy and opensource projects
      * desktop hardware synthesizer based on Elements by Mutable Instruments
      * programmed in rust! based on mutable instruments
  * [awesome synth](https://github.com/psykon/awesome-synth)
+   * List of awesome opensource synth project. Software and Hardware
  
  # community forums
   * [muffwigler](https://www.muffwiggler.com/forum/index.php)
