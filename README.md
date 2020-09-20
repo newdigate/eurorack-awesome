@@ -73,6 +73,8 @@ community-curated list of awesome eurorack diy and opensource projects
   * https://github.com/THX2112/Eurorack-Panel-Designer
  
  # related
+ * [BananaSchplit](https://github.com/pms67/BananaSchplit)
+   * Single rail DC (<12V) to split rail DC supply (+/-12V and +5V).
  * [pcb-checklist](https://github.com/azonenberg/pcb-checklist)
  * [teensypolysynth](https://github.com/otem/teensypolysynth)
  * [fader bank](https://github.com/16n-faderbank/16n)
