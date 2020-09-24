@@ -50,6 +50,7 @@ community-curated list of awesome eurorack diy and opensource projects
 * [16n-faderbank](https://github.com/16n-faderbank)
   * [16n](https://github.com/16n-faderbank/16n)
     * ```Sixteen faders, a Teensy, MIDI over USB and jack, CV out, and I2C out.```
+* https://github.com/jkrame1/Betweener
 
 # gitlab
  * [Faselunare](https://gitlab.com/Faselunare)
