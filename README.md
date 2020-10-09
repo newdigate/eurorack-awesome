@@ -4,13 +4,13 @@ community-curated list of awesome eurorack diy and opensource projects
 # github repos
 <table>
   <tr>
-    <td colspan="4"> 
+    <td colspan="5"> 
      <a href='https://github.com/pichenettes/'>Mutable Instruments / émilie gillet</a>
    </td>
   </tr>
   <tr>
     <td></td>
-    <td>
+    <td colspan=2>
           <a href='https://github.com/pichenettes/eurorack'>pichenettes/eurorack</a>
      </td>
     <td>
@@ -18,6 +18,7 @@ community-curated list of awesome eurorack diy and opensource projects
   </tr>
  <tr>
   <td></td>
+   <td></td>
   <td colspan=2>Mutable Instruments' Eurorack Modules.</td>
  </tr>
 </table>
