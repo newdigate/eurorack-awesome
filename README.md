@@ -2,9 +2,26 @@
 community-curated list of awesome eurorack diy and opensource projects
 
 # github repos
-* [pichenettes](https://github.com/pichenettes/ "pichenettes") - (aka Mutable Instruments)
-  * [pichenettes/eurorack](https://github.com/pichenettes/eurorack "pichenettes/eurorack") 
-    * [![GitHub stars](https://img.shields.io/github/stars/pichenettes/eurorack.svg?style=social&label=Stars&maxAge=2592000)](https://GitHub.com/pichenettes/eurorack/stargazers/)
+<table>
+  <tr>
+    <td colspan="4"> 
+     <a href='https://github.com/pichenettes/'>Mutable Instruments / émilie gillet</a>
+   </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
+          <a href='https://github.com/pichenettes/eurorack'>pichenettes/eurorack</a>
+     </td>
+    <td>
+     <img src='https://img.shields.io/github/stars/pichenettes/eurorack.svg?style=social&label=Stars&maxAge=2592000'/>
+  </tr>
+ <tr>
+  <td></td>
+  <td colspan=2>Mutable Instruments' Eurorack Modules.</td>
+ </tr>
+</table>
+
 
 * [shaduzlabs](https://github.com/shaduzlabs "shaduzlabs")
   * [synapse](https://github.com/shaduzlabs/synapse "synapse")
