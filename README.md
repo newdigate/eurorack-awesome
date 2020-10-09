@@ -9,17 +9,47 @@ community-curated list of awesome eurorack diy and opensource projects
    </td>
   </tr>
   <tr>
-    <td></td>
+    <td width="40px"></td>
     <td colspan=2>
           <a href='https://github.com/pichenettes/eurorack'>pichenettes/eurorack</a>
      </td>
-    <td>
+    <td width='150px'>
      <img src='https://img.shields.io/github/stars/pichenettes/eurorack.svg?style=social&label=Stars&maxAge=2592000'/>
+    </td>
   </tr>
  <tr>
   <td></td>
-   <td></td>
-  <td colspan=2>Mutable Instruments' Eurorack Modules.</td>
+   <td width="40px"></td>
+  <td colspan=2>Mutable Instruments' Eurorack Modules.
+   
+   
+* Blinds: Quad VC-polarizer.
+* Braids: Macro-oscillator.
+* Branches: Dual Bernoulli gate.
+* Clouds: Texture synthesizer.
+* Ears: Contact microphone.
+* Edges: Quad chiptune digital oscillator.
+* Elements: Modal synthesizer.
+* Frames: Keyframer/mixer.
+* Grids: Topographic drum sequencer.
+* Kinks: Utility module - rectifier, analog logic, S&H, noise.
+* Links: Utility module - buffer, mixer.
+* Marbles: Random sampler.
+* Peaks: Dual trigger converter.
+* Plaits: Macro oscillator.
+* Rings: Resonator.
+* Ripples: Liquid 2-pole BP, 2-pole LP and 4-pole LP filter.
+* Shades: Triple attenuverter.
+* Shelves: EQ filter.
+* Stages: Segment generator.
+* Streams: Dual dynamics gate.
+* Tides: Tidal modulator.
+* Veils: Quad VCA.
+* Volts: +5V power module.
+* Warps: Meta-modulator.
+* Yarns: MIDI interface.
+   
+   </td>
  </tr>
 </table>
 
