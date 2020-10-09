@@ -3,7 +3,8 @@ community-curated list of awesome eurorack diy and opensource projects
 
 # github repos
 * [pichenettes](https://github.com/pichenettes/ "pichenettes") - (aka Mutable Instruments)
-  * [pichenettes/eurorack](https://github.com/pichenettes/eurorack "pichenettes/eurorack")
+  * [pichenettes/eurorack](https://github.com/pichenettes/eurorack "pichenettes/eurorack") [![GitHub stars](https://img.shields.io/github/stars/pichenettes/eurorack.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/pichenettes/eurorack/stargazers/)
+
 * [shaduzlabs](https://github.com/shaduzlabs "shaduzlabs")
   * [synapse](https://github.com/shaduzlabs/synapse "synapse")
     * Synapse is an Arduino shield (and corresponding library) which provides CV and Gate I/O for Arduino boards.
