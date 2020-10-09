@@ -51,12 +51,34 @@ community-curated list of awesome eurorack diy and opensource projects
    
    </td>
  </tr>
+ 
+ 
+ <tr>
+    <td colspan="5"> 
+     <a href='https://github.com/shaduzlabs'>shaduzlabs</a>
+   </td>
+  </tr>
+  <tr>
+    <td width="40px"></td>
+    <td colspan=2>
+          <a href='https://github.com/shaduzlabs/synapse'>synapse</a>
+     </td>
+    <td width='150px'>
+     <img src='https://img.shields.io/github/stars/shaduzlabs/synapse.svg?style=social&label=Stars&maxAge=2592000'/>
+    </td>
+  </tr>
+ <tr>
+  <td></td>
+   <td width="40px"></td>
+  <td colspan=2>
+    Synapse is an Arduino shield (and corresponding library) which provides CV and Gate I/O for Arduino boards.
+   </td>
+ </tr>
+ 
+ 
+ 
 </table>
 
-
-* [shaduzlabs](https://github.com/shaduzlabs "shaduzlabs")
-  * [synapse](https://github.com/shaduzlabs/synapse "synapse")
-    * Synapse is an Arduino shield (and corresponding library) which provides CV and Gate I/O for Arduino boards.
 * [mxmxmx](https://github.com/mxmxmx "mxmxmx")
   * Ordinance & Crime
     * http://ornament-and-cri.me/hardware-basics/ 
