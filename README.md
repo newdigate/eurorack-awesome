@@ -35,7 +35,6 @@ community-curated list of awesome eurorack diy and opensource projects
 | **[attoparsec](https://github.com/attoparsec)** <br/> [TruthTable](https://github.com/attoparsec/TruthTable)  <br/> ![Stars](https://img.shields.io/github/stars/attoparsec/TruthTable.svg?style=social&label=Stars&maxAge=2592000)|    <br/>  Eurorack Truth Table module  <br/>     |
 | **[attoparsec](https://github.com/attoparsec)** <br/> [Node](https://github.com/attoparsec/Node)  <br/> ![Stars](https://img.shields.io/github/stars/attoparsec/Node.svg?style=social&label=Stars&maxAge=2592000)|    <br/>     |
 
-                                                                                                                                                        |
 # gitlab
  * [Faselunare](https://gitlab.com/Faselunare)
    * [shapeshifter](https://gitlab.com/Faselunare/shapeshifter)
