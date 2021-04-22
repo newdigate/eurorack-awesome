@@ -1,5 +1,6 @@
 # awesome eurorack open-source ![awesome](media/awesome-badge.svg)
 community-curated list of awesome eurorack diy and opensource projects
+ * Markdown partially generated using *[eurorack-awesome-db](https://github.com/newdigate/eurorack-awesome-db)*
 
 # github repos
 |   |   |
