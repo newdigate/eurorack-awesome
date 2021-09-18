@@ -36,7 +36,7 @@ community-curated list of awesome eurorack diy and opensource projects
 | **[matthewcieplak](https://github.com/matthewcieplak)** <br/> [super-sixteen](https://github.com/matthewcieplak/super-sixteen)  <br/> ![Stars](https://img.shields.io/github/stars/matthewcieplak/super-sixteen.svg?style=social&label=Stars&maxAge=2592000)|  <img src='https://camo.githubusercontent.com/46c538cadf57bc482dfb7e2370e2b374a3ac7be3d1519428b34549e951a78f89/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f65787472616c696665696e737472756d656e74732e636f6d2f696d616765732f70726f647563742f73757065727369787465656e2d6d6574616c2e6a7067' title='matthewcieplak:super-sixteen' height='80px'/>   <br/>  open-source/open-hardware sequencer for the Eurorack synthesizer format  <br/>     |
 | **[attoparsec](https://github.com/attoparsec)** <br/> [TruthTable](https://github.com/attoparsec/TruthTable)  <br/> ![Stars](https://img.shields.io/github/stars/attoparsec/TruthTable.svg?style=social&label=Stars&maxAge=2592000)|    <br/>  Eurorack Truth Table module  <br/>     |
 | **[attoparsec](https://github.com/attoparsec)** <br/> [Node](https://github.com/attoparsec/Node)  <br/> ![Stars](https://img.shields.io/github/stars/attoparsec/Node.svg?style=social&label=Stars&maxAge=2592000)|    <br/>     |
-
+| **[THX2112](https://github.com/THX2112)** <br/> [12VAC-Eurorack-Power-Supply](https://github.com/THX2112/12VAC-Eurorack-Power-Supply)  <br/> ![Stars](https://img.shields.io/github/stars/THX2112/12VAC-Eurorack-Power-Supply.svg?style=social&label=Stars&maxAge=2592000)|    <br/>  A simple +12 -12 power supply for Eurorack using 12VAC adapters  <br/>     |
 
 # gitlab
  * [Faselunare](https://gitlab.com/Faselunare)
