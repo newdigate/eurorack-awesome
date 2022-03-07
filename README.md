@@ -64,6 +64,8 @@ community-curated list of awesome eurorack diy and opensource projects
   * create circuits, printed circuit boards, and panels
 * Inkscape plugin for designing eurorack front panels
   * https://github.com/THX2112/Eurorack-Panel-Designer
+* eurorack-blocks:
+  * [ohmtech-rdi/eurorack-blocks](https://github.com/ohmtech-rdi/eurorack-blocks)
  
  # related
  * [polaron](https://github.com/zueblin/Polaron)
