@@ -53,7 +53,7 @@ community-curated list of awesome eurorack diy and opensource projects
  | [otem](https://github.com/otem) | [teensypolysynth](https://github.com/otem/teensypolysynth) | <img width="400px" src="https://camo.githubusercontent.com/2b833f52b002309a7c1b7bc6506671a30bb2b697105037d3d92991ebc3c24f66/687474703a2f2f696d672e796f75747562652e636f6d2f76692f4b62634e716172425473492f6d617872657364656661756c742e6a7067"/>  |
  | [Wojciech Jakóbczyk](https://github.com/wjakobczyk) | [kawa synth](https://github.com/wjakobczyk/mutmidi) | <img width="400px" src="https://github.com/wjakobczyk/mutmidi/raw/master/hardware/prototype-top.jpg"/> <br/>* desktop hardware synthesizer based on Elements by Mutable Instruments, programmed in rust! based on mutable instruments |
  | [psykon](https://github.com/psykon) | [awesome synth](https://github.com/psykon/awesome-synth) |  * List of awesome opensource synth project. Software and Hardware |
- | [leet-modular](https://vonkonow.com/wordpress/leet-modular/)| [LEET-Modular](https://github.com/vonkonow/LEET-Modular) | <img src="https://i0.wp.com/vonkonow.com/wordpress/wp-content/uploads/2022/03/modules-scaled.jpg?w=400&ssl=1"/> <br/> * Gerbers, 3D models |
+ | [leet-modular](https://vonkonow.com/wordpress/leet-modular/)| [LEET-Modular](https://github.com/vonkonow/LEET-Modular) | <img src="https://i0.wp.com/vonkonow.com/wordpress/wp-content/uploads/2022/03/modules-scaled.jpg?w=400&ssl=1"/> <br/> * Gerbers, 3D models, firmware |
  
  
 # gitlab
