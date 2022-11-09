@@ -70,7 +70,7 @@ community-curated list of awesome eurorack diy and opensource projects
  # related   
  |  Name | Repo | Notes |
  |---|---|---|
- | [zueblin](https://github.com/zueblin) | [polaron](https://github.com/zueblin/Polaron)| |
+ | [zueblin](https://github.com/zueblin) | [polaron](https://github.com/zueblin/Polaron)| <img src="https://github.com/zueblin/Polaron/raw/master/Doc/Images/sideview.jpg" width="400px" /> |
  | [pms67](https://github.com/pms67) | [BananaSchplit](https://github.com/pms67/BananaSchplit) | * Single rail DC (<12V) to split rail DC supply (+/-12V and +5V). |
  | [azonenberg](https://github.com/azonenberg) | [pcb-checklist](https://github.com/azonenberg/pcb-checklist)| Schematic and Layout review checklists |
  | [otem](https://github.com/otem) | [teensypolysynth](https://github.com/otem/teensypolysynth) | <img width="400px" src="https://camo.githubusercontent.com/2b833f52b002309a7c1b7bc6506671a30bb2b697105037d3d92991ebc3c24f66/687474703a2f2f696d672e796f75747562652e636f6d2f76692f4b62634e716172425473492f6d617872657364656661756c742e6a7067"/>  |
