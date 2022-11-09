@@ -80,7 +80,7 @@ community-curated list of awesome eurorack diy and opensource projects
  | [16n-faderbank](https://github.com/16n-faderbank) | github: [fader bank](https://github.com/16n-faderbank/16n) |  |
  | [Wojciech Jakóbczyk](https://github.com/wjakobczyk) |  github: [kawa synth](https://github.com/wjakobczyk/mutmidi) | * desktop hardware synthesizer based on Elements by Mutable Instruments, programmed in rust! based on mutable instruments |
  | [psykon](https://github.com/psykon) | github: [awesome synth](https://github.com/psykon/awesome-synth) |  * List of awesome opensource synth project. Software and Hardware |
- | [leet-modular](https://vonkonow.com/wordpress/leet-modular/)| github: [LEET-Modular](https://github.com/vonkonow/LEET-Modular) | * Gerbers, 3D models |
+ | [leet-modular](https://vonkonow.com/wordpress/leet-modular/)| github: [LEET-Modular](https://github.com/vonkonow/LEET-Modular) | <img src="https://i0.wp.com/vonkonow.com/wordpress/wp-content/uploads/2022/03/modules-scaled.jpg?w=400&ssl=1"/> * Gerbers, 3D models |
  
  # community forums
   * [muffwigler](https://www.muffwiggler.com/forum/index.php)
