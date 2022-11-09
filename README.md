@@ -67,20 +67,17 @@ community-curated list of awesome eurorack diy and opensource projects
 * eurorack-blocks:
   * [ohmtech-rdi/eurorack-blocks](https://github.com/ohmtech-rdi/eurorack-blocks)
  
- # related
- * [polaron](https://github.com/zueblin/Polaron)
- * [BananaSchplit](https://github.com/pms67/BananaSchplit)
-   * Single rail DC (<12V) to split rail DC supply (+/-12V and +5V).
-
-   
- |  Name | Links | Notes |
+ # related   
+ |  Name | Repo | Notes |
  |---|---|---|
- | [azonenberg](https://github.com/azonenberg) | github: [pcb-checklist](https://github.com/azonenberg/pcb-checklist)| |
- | [otem](https://github.com/otem) | github: [teensypolysynth](https://github.com/otem/teensypolysynth) |   |
- | [16n-faderbank](https://github.com/16n-faderbank) | github: [fader bank](https://github.com/16n-faderbank/16n) |  |
- | [Wojciech Jakóbczyk](https://github.com/wjakobczyk) |  github: [kawa synth](https://github.com/wjakobczyk/mutmidi) | * desktop hardware synthesizer based on Elements by Mutable Instruments, programmed in rust! based on mutable instruments |
- | [psykon](https://github.com/psykon) | github: [awesome synth](https://github.com/psykon/awesome-synth) |  * List of awesome opensource synth project. Software and Hardware |
- | [leet-modular](https://vonkonow.com/wordpress/leet-modular/)| github: [LEET-Modular](https://github.com/vonkonow/LEET-Modular) | <img src="https://i0.wp.com/vonkonow.com/wordpress/wp-content/uploads/2022/03/modules-scaled.jpg?w=400&ssl=1"/> * Gerbers, 3D models |
+ | [zueblin](https://github.com/zueblin) | [polaron](https://github.com/zueblin/Polaron)| |
+ | [pms67](https://github.com/pms67) | [BananaSchplit](https://github.com/pms67/BananaSchplit) | * Single rail DC (<12V) to split rail DC supply (+/-12V and +5V). |
+ | [azonenberg](https://github.com/azonenberg) | [pcb-checklist](https://github.com/azonenberg/pcb-checklist)| |
+ | [otem](https://github.com/otem) | [teensypolysynth](https://github.com/otem/teensypolysynth) |   |
+ | [16n-faderbank](https://github.com/16n-faderbank) | [fader bank](https://github.com/16n-faderbank/16n) |  |
+ | [Wojciech Jakóbczyk](https://github.com/wjakobczyk) | [kawa synth](https://github.com/wjakobczyk/mutmidi) | * desktop hardware synthesizer based on Elements by Mutable Instruments, programmed in rust! based on mutable instruments |
+ | [psykon](https://github.com/psykon) | [awesome synth](https://github.com/psykon/awesome-synth) |  * List of awesome opensource synth project. Software and Hardware |
+ | [leet-modular](https://vonkonow.com/wordpress/leet-modular/)| [LEET-Modular](https://github.com/vonkonow/LEET-Modular) | <img src="https://i0.wp.com/vonkonow.com/wordpress/wp-content/uploads/2022/03/modules-scaled.jpg?w=400&ssl=1"/> <br/> * Gerbers, 3D models |
  
  # community forums
   * [muffwigler](https://www.muffwiggler.com/forum/index.php)
