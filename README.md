@@ -44,6 +44,18 @@ community-curated list of awesome eurorack diy and opensource projects
 | **[samjkent](https://github.com/samjkent)** <br/> [mixer-isolator-channel](https://github.com/samjkent/mixer-isolator-channel)  <br/> ![Stars](https://img.shields.io/github/stars/samjkent/mixer-isolator-channel.svg?style=social&label=Stars&maxAge=2592000)|  <img src='https://samjkent.co.uk/modular-mixer/images/mixer-isolator.svg' title='mixer-isolator:mixer-isolator.svg' height='80px'/>   <br/>  <a href='https://hackaday.com/2021/10/04/this-audio-mixer-is-a-eurorack/'>this-audio-mixer-is-a-eurorack</a>  <br/>  <a href='https://samjkent.co.uk/modular-mixer/'>Modular Mixer</a>  <br/>  modular eurorack channel mixer  <br/>     |
 | **[modular-maculata](https://github.com/modular-maculata/)** <br/> [mixor-image](https://github.com/modular-maculata/mixor-image)  <br/> ![Stars](https://img.shields.io/github/stars/modular-maculata/mixor-image?style=social&label=Stars&maxAge=2592000)|  <img src='https://raw.githubusercontent.com/modular-maculata/mixor-image/main/mixor-image.jpeg' title='mixor-image..jpeg' height='80px'/>   <br/>  **mixor-image**  <br/>  6 input stereo panning mixer in 1u  <br/>     |
 
+ # related   
+ |  Name | Repo | Notes |
+ |---|---|---|
+ | [zueblin](https://github.com/zueblin) | [polaron](https://github.com/zueblin/Polaron)| <img src="https://github.com/zueblin/Polaron/raw/master/Doc/Images/sideview.jpg" width="400px" /> |
+ | [pms67](https://github.com/pms67) | [BananaSchplit](https://github.com/pms67/BananaSchplit) | * Single rail DC (<12V) to split rail DC supply (+/-12V and +5V). |
+ | [azonenberg](https://github.com/azonenberg) | [pcb-checklist](https://github.com/azonenberg/pcb-checklist)| Schematic and Layout review checklists |
+ | [otem](https://github.com/otem) | [teensypolysynth](https://github.com/otem/teensypolysynth) | <img width="400px" src="https://camo.githubusercontent.com/2b833f52b002309a7c1b7bc6506671a30bb2b697105037d3d92991ebc3c24f66/687474703a2f2f696d672e796f75747562652e636f6d2f76692f4b62634e716172425473492f6d617872657364656661756c742e6a7067"/>  |
+ | [Wojciech Jakóbczyk](https://github.com/wjakobczyk) | [kawa synth](https://github.com/wjakobczyk/mutmidi) | <img width="400px" src="https://github.com/wjakobczyk/mutmidi/raw/master/hardware/prototype-top.jpg"/> <br/>* desktop hardware synthesizer based on Elements by Mutable Instruments, programmed in rust! based on mutable instruments |
+ | [psykon](https://github.com/psykon) | [awesome synth](https://github.com/psykon/awesome-synth) |  * List of awesome opensource synth project. Software and Hardware |
+ | [leet-modular](https://vonkonow.com/wordpress/leet-modular/)| [LEET-Modular](https://github.com/vonkonow/LEET-Modular) | <img src="https://i0.wp.com/vonkonow.com/wordpress/wp-content/uploads/2022/03/modules-scaled.jpg?w=400&ssl=1"/> <br/> * Gerbers, 3D models |
+ 
+ 
 # gitlab
  * [Faselunare](https://gitlab.com/Faselunare)
    * [shapeshifter](https://gitlab.com/Faselunare/shapeshifter)
@@ -66,17 +78,6 @@ community-curated list of awesome eurorack diy and opensource projects
   * https://github.com/THX2112/Eurorack-Panel-Designer
 * eurorack-blocks:
   * [ohmtech-rdi/eurorack-blocks](https://github.com/ohmtech-rdi/eurorack-blocks)
- 
- # related   
- |  Name | Repo | Notes |
- |---|---|---|
- | [zueblin](https://github.com/zueblin) | [polaron](https://github.com/zueblin/Polaron)| <img src="https://github.com/zueblin/Polaron/raw/master/Doc/Images/sideview.jpg" width="400px" /> |
- | [pms67](https://github.com/pms67) | [BananaSchplit](https://github.com/pms67/BananaSchplit) | * Single rail DC (<12V) to split rail DC supply (+/-12V and +5V). |
- | [azonenberg](https://github.com/azonenberg) | [pcb-checklist](https://github.com/azonenberg/pcb-checklist)| Schematic and Layout review checklists |
- | [otem](https://github.com/otem) | [teensypolysynth](https://github.com/otem/teensypolysynth) | <img width="400px" src="https://camo.githubusercontent.com/2b833f52b002309a7c1b7bc6506671a30bb2b697105037d3d92991ebc3c24f66/687474703a2f2f696d672e796f75747562652e636f6d2f76692f4b62634e716172425473492f6d617872657364656661756c742e6a7067"/>  |
- | [Wojciech Jakóbczyk](https://github.com/wjakobczyk) | [kawa synth](https://github.com/wjakobczyk/mutmidi) | <img width="400px" src="https://github.com/wjakobczyk/mutmidi/raw/master/hardware/prototype-top.jpg"/> <br/>* desktop hardware synthesizer based on Elements by Mutable Instruments, programmed in rust! based on mutable instruments |
- | [psykon](https://github.com/psykon) | [awesome synth](https://github.com/psykon/awesome-synth) |  * List of awesome opensource synth project. Software and Hardware |
- | [leet-modular](https://vonkonow.com/wordpress/leet-modular/)| [LEET-Modular](https://github.com/vonkonow/LEET-Modular) | <img src="https://i0.wp.com/vonkonow.com/wordpress/wp-content/uploads/2022/03/modules-scaled.jpg?w=400&ssl=1"/> <br/> * Gerbers, 3D models |
  
  # community forums
   * [muffwigler](https://www.muffwiggler.com/forum/index.php)
