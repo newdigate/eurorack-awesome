@@ -46,8 +46,8 @@ community-curated list of awesome eurorack diy and opensource projects
 | **[backtail](https://github.com/backtail)** <br/> [mHz-oscillator](https://github.com/backtail/mHz-oscillator)  <br/> ![Stars](https://img.shields.io/github/stars/backtail/mHz-oscillator?style=social&label=Stars&maxAge=2592000)|  <img src='https://github.com/backtail/mHz-oscillator/raw/master/render.png' title='backtail/mHz-oscillator' height='80px'/>  <br/> 6HP Eurorack module <br/> Voltage Controlled LFO  <br/>     |
 | **[backtail](https://github.com/backtail)** <br/> [strg-m](https://github.com/backtail/strg-m)  <br/> ![Stars](https://img.shields.io/github/stars/backtail/strg-m?style=social&label=Stars&maxAge=2592000)|  <img src='https://github.com/backtail/strg-m/raw/master/render.png' title='backtail/strg-m' height='80px'/>  <br/> 3HP Eurorack module CV modifier <br/>     |
 | **[backtail](https://github.com/backtail)** <br/> [6hp-psu](https://github.com/backtail/6hp-psu)  <br/> ![Stars](https://img.shields.io/github/stars/backtail/6hp-psu?style=social&label=Stars&maxAge=2592000)|  <img src='https://github.com/backtail/6hp-psu/raw/master/render.png' title='backtail/6hp-psu' height='80px'/>  <br/> 6HP Eurorack PSU <br/>     |
-
-
+| **[mzuelch](https://github.com/mzuelch)** <br/> [CATs-Eurosynth](https://github.com/mzuelch/CATs-Eurosynth)  <br/> ![Stars](https://img.shields.io/github/stars/mzuelch/CATs-Eurosynth?style=social&label=Stars&maxAge=2592000)|  <img src='https://github.com/mzuelch/CATs-Eurosynth/blob/main/Modules/CGS/Analog%20Switch%20Matrix/Documentation/Rendering.jpg?raw=true' title='Analog Switch Matrix - mzuelch/CATs-Eurosynth' height='80px'/>  <img src='https://github.com/mzuelch/CATs-Eurosynth/raw/main/Modules/YuSynth/Improved%20Steiner%20VCF/Documentation/Rendering.jpg
+' title='Improved Steiner VCF - mzuelch/CATs-Eurosynth' height='80px'/> <br/> Analog Switch Matrix <br/> Improved Steiner VCF <br/>     |
 
 
  # related   
@@ -60,7 +60,7 @@ community-curated list of awesome eurorack diy and opensource projects
  | [Wojciech Jakóbczyk](https://github.com/wjakobczyk) | [kawa synth](https://github.com/wjakobczyk/mutmidi) | <img width="400px" src="https://github.com/wjakobczyk/mutmidi/raw/master/hardware/prototype-top.jpg"/> <br/>* desktop hardware synthesizer based on Elements by Mutable Instruments, programmed in rust! based on mutable instruments |
  | [psykon](https://github.com/psykon) | [awesome synth](https://github.com/psykon/awesome-synth) |  * List of awesome opensource synth project. Software and Hardware |
  | [leet-modular](https://vonkonow.com/wordpress/leet-modular/)| [LEET-Modular](https://github.com/vonkonow/LEET-Modular) | <img src="https://i0.wp.com/vonkonow.com/wordpress/wp-content/uploads/2022/03/modules-scaled.jpg?w=400&ssl=1"/> <br/> * Gerbers, 3D models, firmware |
- 
+
  
 # gitlab
  * [Faselunare](https://gitlab.com/Faselunare)
