@@ -67,6 +67,7 @@ community-curated list of awesome eurorack diy and opensource projects
    * [synth-panels-designer](https://gitlab.com/Faselunare/synth-panels-designer/-/tree/master)
      * plugin for inscape which allows you to build nice panel designs.
 # non github
+* [FM-1 Emulator](https://fm1-emulator.atst.tools/) - Free browser emulator for the M-VAVE FM-1 pocket synth; plays stock and 200+ community firmwares
 * [yusynth](http://www.yusynth.net) 
   * [ADSR](http://www.yusynth.net/Modular/EN/ADSR/index_latest.html)
   
